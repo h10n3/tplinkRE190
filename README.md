@@ -14,6 +14,7 @@
 
 The firmware is extracted with ```xGecu Pro T48 Programmer``` and saved in ```firmware/``` folder.
 The zip password is: <code>tplink</code>
+Use 7z to unzip...
 
 The latest firmware can be downloaded form [here](https://www.tp-link.com/nl/support/download/re190/#Firmware).
 
